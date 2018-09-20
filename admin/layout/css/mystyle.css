@@ -1,0 +1,12 @@
+
+/* login form */
+.login
+{
+    width: 300px;
+    margin: 100px auto;
+}
+.login input
+{
+    margin-bottom: 10px;
+}
+/*end login form*/

@@ -1,0 +1,22 @@
+
+/* login form */
+.login
+{
+    width: 300px;
+    margin: 100px auto;
+}
+.login input
+{
+    margin-bottom: 10px;
+}
+/*end login form*/
+
+.login-page .form-control{
+    margin-bottom: 10px;
+
+}
+.login-page .form-control:hover,
+.login-page .form-control:focus{
+    background-color: silver;
+    color: white;
+}
